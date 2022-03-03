@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+h1 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 3rem;
+  color: #fc9802;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
